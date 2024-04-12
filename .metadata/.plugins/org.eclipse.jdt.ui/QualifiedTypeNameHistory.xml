@@ -11,4 +11,8 @@
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
     <fullyQualifiedTypeName name="model.entities.CarRenatl"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="model.services.RentalService"/>
+    <fullyQualifiedTypeName name="model.entities.CarRental"/>
+    <fullyQualifiedTypeName name="model.entities.Invoice"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
 </qualifiedTypeNameHistroy>
